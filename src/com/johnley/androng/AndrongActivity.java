@@ -1,5 +1,6 @@
-package net.semantic.games;
+package com.johnley.androng;
 
+import net.semantic.games.R;
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;

@@ -1,4 +1,4 @@
-package net.semantic.games;
+package com.johnley.androng;
 
 import java.util.Random;
 

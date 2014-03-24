@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <net.semantic.games.AndrongSurfaceView
+    <com.johnley.androng.AndrongSurfaceView
       android:id="@+id/androng"
       android:layout_width="match_parent"
       android:layout_height="match_parent"/>

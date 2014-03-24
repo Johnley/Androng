@@ -1,4 +1,4 @@
-package net.semantic.games;
+package com.johnley.androng;
 
 public class Score
 {

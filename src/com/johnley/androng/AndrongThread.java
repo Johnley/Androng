@@ -1,5 +1,6 @@
-package net.semantic.games;
+package com.johnley.androng;
 
+import net.semantic.games.R;
 import android.content.Context;
 import android.content.res.Resources;
 import android.graphics.Bitmap;

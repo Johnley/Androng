@@ -1,10 +1,12 @@
-package net.semantic.games;
+package com.johnley.androng;
 
 import android.content.Context;
 import android.media.AudioManager;
 import android.media.SoundPool;
 
 import java.util.HashMap;
+
+import net.semantic.games.R;
 
 public class SoundManager
 {
